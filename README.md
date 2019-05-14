@@ -1,6 +1,6 @@
 # Awesome FIWARE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="logo.svg" align="right" width="162">](https://www.fiware.org/)
+[<img src="logo.png" align="right" width="162">](https://www.fiware.org/)
 
 A curated list of FIWARE related projects and resources.
 
