@@ -1,0 +1,55 @@
+{
+	"keywords": [
+		"node",
+		"fiware",
+		"tutorials",
+		"validator",
+		"ngsi"
+	],
+	"license": "CC-BY-4.0",
+	"scripts": {
+		"start": "mkdocs serve",
+		"precommit": "lint-staged",
+		"lint:text": "textlint  'README.md' 'docs/*.md'  'docs/**/*.md'",
+		"lint:md": "remark -f 'README.md' 'docs'",
+		"prettier:text": "prettier 'README.md' 'docs/*.md'  'docs/**/*.md' --no-config --tab-width 4 --print-width 120 --write --prose-wrap always"
+	},
+	"devDependencies": {
+		"awesome-lint": "*",
+		"eslint": "^5.6.0",
+		"eslint-config-tamia": "^6.0.1",
+		"eslint-plugin-prettier": "^3.0.0",
+		"husky": "^1.1.0",
+		"lint-staged": "^7.3.0",
+		"memfs": "2.10.1",
+		"prettier": "^1.14.2",
+		"remark-cli": "^6.0.1",
+		"remark-preset-lint-recommended": "^3.0.2",
+		"textlint": "^11.0.1",
+		"textlint-filter-rule-comments": "^1.2.2",
+		"textlint-rule-common-misspellings": "^1.0.1",
+		"textlint-rule-no-dead-link": "^4.4.1",
+		"textlint-rule-terminology": "^1.1.29",
+		"textlint-rule-write-good": "^1.6.2"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "lint-staged"
+		}
+	},
+	"lint-staged": {
+		"*.md": [
+			"prettier  --no-config --tab-width 4 --print-width 120 --write --prose-wrap always",
+			"git add"
+		]
+	},
+	"remarkConfig": {
+		"settings": {
+			"bullet": "-",
+			"paddedTable": true
+		},
+		"plugins": [
+			"remark-preset-lint-recommended"
+		]
+	}
+}
