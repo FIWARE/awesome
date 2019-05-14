@@ -1,18 +1,18 @@
 {
 	"keywords": [
-		"node",
+		"awesome",
 		"fiware",
-		"tutorials",
-		"validator",
+		"smart-app",
+		"contextual-data",
 		"ngsi"
 	],
 	"license": "CC-BY-4.0",
 	"scripts": {
-		"start": "mkdocs serve",
+		"test" : "awesome-lint",
 		"precommit": "lint-staged",
-		"lint:text": "textlint  'README.md' 'docs/*.md'  'docs/**/*.md'",
-		"lint:md": "remark -f 'README.md' 'docs'",
-		"prettier:text": "prettier 'README.md' 'docs/*.md'  'docs/**/*.md' --no-config --tab-width 4 --print-width 120 --write --prose-wrap always"
+		"lint:text": "textlint  'README.md'",
+		"lint:md": "remark -f 'README.md'",
+		"prettier:text": "prettier 'README.md' --no-config --tab-width 2 --print-width 240 --write --prose-wrap always"
 	},
 	"devDependencies": {
 		"awesome-lint": "*",
