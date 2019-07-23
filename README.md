@@ -149,7 +149,7 @@ Solutions.
 
 -   https://github.com/Ficodes/iotagent-adapt
 
--   [NGSI connector API](http://dev.waste4think.eu/waste4think/NgsiConnector) - NgsiConnectorAPI is a part of      backend implementation of NGSI v2 standard, providing interface for large entities operations coming from            various sources such as files, legacy systems etc..
+-   [NgsiConnectorAPI](http://dev.waste4think.eu/waste4think/NgsiConnector) - NgsiConnectorAPI is a part of      backend implementation of NGSI v2 standard, providing interface for large entities operations coming from            various sources such as files, legacy systems etc..
 
 ### Robotics
 
