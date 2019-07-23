@@ -119,6 +119,8 @@ Solutions.
 
 -   https://github.com/authzforce/server
 
+-   [NGSI connector API](http://dev.waste4think.eu/waste4think/NgsiConnector) - NGSI Connector Tool API is a part of      backend implementation of NGSI v2 standard, providing interface for large entities operations coming from            various sources such as files, legacy systems etc..
+
 ## open-source FIWARE from third parties
 
 -   https://github.com/telefonicaid/fiware-pep-steelskin
