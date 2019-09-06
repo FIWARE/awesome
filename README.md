@@ -149,6 +149,8 @@ Solutions.
 
 -   https://github.com/Ficodes/iotagent-adapt
 
+-   [NgsiConnectorAPI](http://dev.waste4think.eu/waste4think/NgsiConnector) - This tool is a part of backend             implementation of NGSI v2 standard, providing interface for large entities operations coming from various            sources such as files, legacy systems etc..
+
 ### Robotics
 
 -   https://github.com/eProsima/FIROS2
