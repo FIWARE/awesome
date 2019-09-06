@@ -189,8 +189,7 @@
        "ignoreRedirects": true,
        "ignore": [
           "mailto:*",
-          "https://www.fi-xifi.eu/about-xifi/what-is-xifi.html",
-		  "http://www.fp7-ofelia.eu/"          
+          "https://awesome.re"          
       ]
     }
   }
