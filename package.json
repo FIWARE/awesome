@@ -39,7 +39,7 @@
 	},
 	"lint-staged": {
 		"*.md": [
-			"prettier  --no-config --tab-width 2 --print-width 120 --write --prose-wrap always",
+			"prettier  --no-config --tab-width 2 --print-width 240 --write --prose-wrap always",
 			"git add"
 		]
 	},
