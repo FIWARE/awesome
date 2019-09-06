@@ -9,7 +9,7 @@ A curated list of FIWARE related projects and resources.
 The [FIWARE Catalogue](https://github.com/FIWARE/catalogue) is a curated framework of open source platform components which can be assembled together and with other third-party platform, components to accelerate the development of Smart
 Solutions.
 
-- This list requires your input for its continuous improvement. Read the [contribution guide](contributing.md) for instructions on how you can contribute.
+- This list requires your input for its continuous improvement. Read the [contribution guide](CONTRIBUTING.md) for instructions on how you can contribute.
 - For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 
 ## Contents
