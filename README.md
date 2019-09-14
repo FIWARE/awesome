@@ -56,7 +56,7 @@ Solutions.
 - [NGSI v2 Specification](https://swagger.lab.fiware.org/?url=https://raw.githubusercontent.com/Fiware/specifications/master/OpenAPI/ngsiv2/ngsiv2-openapi.json) - The Swagger specification for the Context Broker.
 - [IoT Agent Specification](https://swagger.lab.fiware.org/?url=https://raw.githubusercontent.com/Fiware/specifications/master/OpenAPI/iot.IoTagent-node-lib/IoTagent-node-lib-openapi.json) - The Swagger specification for provisioning IoT
   devices.
-- [IoT Agent Specification](https://swagger.lab.fiware.org/?url=https://raw.githubusercontent.com/Fiware/specifications/master/OpenAPI/apps.Wirecloud/Wirecloud-openapi.json) - The Swagger specification for the Wirecloud Visualization
+- [WireCloud Specification](https://swagger.lab.fiware.org/?url=https://raw.githubusercontent.com/Fiware/specifications/master/OpenAPI/apps.Wirecloud/Wirecloud-openapi.json) - The Swagger specification for the WireCloud Visualization
   enabler.
 - [Keyrock Specification](https://swagger.lab.fiware.org/?url=https://raw.githubusercontent.com/Fiware/specifications/master/OpenAPI/security.Idm/Idm-openapi.json) - The Swagger specification for the Keyrock Identity Management enabler.
 
