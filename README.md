@@ -145,6 +145,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 ## Other useful FIWARE sites
 
 - [Let's FIWARE](https://www.letsfiware.jp/) - Documentation, Architecture and other FIWARE Information (in Japanese).
+- [Let's FIWARE (GitHub)](https://github.com/lets-fiware) - [FIWARE GEs on Raspberry Pi](https://github.com/lets-fiware/fiware-pi), WireCloud widgets and so on.
 - [Smart SDK](https://www.smartsdk.eu/) - A “cookbook” for developing smart applications in the FIWARE.
 - [Thinking Cities](https://thinking-cities.readthedocs.io/en/latest/) - Telefónica's powered by FIWARE platform.
 - [Smart Data Wien](https://smartdata.wien/) - Vienna's Open Data portal powered by FIWARE.
