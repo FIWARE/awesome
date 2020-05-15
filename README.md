@@ -127,6 +127,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [Waste4think NGSI Connector API](http://dev.waste4think.eu/waste4think/NgsiConnector) - This tool is a part of backend implementation of NGSI v2 standard, providing interface for large entities operations coming from various sources such
   as files, legacy systems etc.
 - [FIWARE Node-Red](https://github.com/FIWARE/node-red-contrib-FIWARE_official) - An integration of [Node-Red](https://nodered.org/) with FIWARE which supports NGSI-LD.
+- [FIWARE Meteoroid](https://github.com/OkinawaOpenLaboratory/fiware-meteoroid) - Meteoroid realizes integrating Function as a Service(FaaS) capabilities in FIWARE.
 
 ### Security
 
