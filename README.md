@@ -129,6 +129,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [FIWARE Node-Red](https://github.com/FIWARE/node-red-contrib-FIWARE_official) - An integration of [Node-Red](https://nodered.org/) with FIWARE which supports NGSI-LD.
 - [FIWARE Meteoroid](https://github.com/OkinawaOpenLaboratory/fiware-meteoroid) - Meteoroid realizes integrating Function as a Service(FaaS) capabilities in FIWARE.
 - [AMQP 1.0 converter](https://github.com/RoboticBase/amqp10-converter) - A protocol converter which bridges between AMQP 1.0 Broker and FIWARE IoTAgent JSON.
+- [Custom IoT Agent for sakura.io](https://github.com/lets-fiware/custom-iotagent-sakuraio) - A bridge between the sakura.io WebSocket API and NGSI.
 
 ### Security
 
