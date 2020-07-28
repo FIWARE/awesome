@@ -15,7 +15,7 @@
 		"prettier:text": "prettier 'README.md' --no-config --tab-width 2 --print-width 240 --write --prose-wrap always"
 	},
 	"devDependencies": {
-		"awesome-lint": "*",
+		"awesome-lint": "^0.15.0",
 		"eslint": "^7.5.0",
 		"eslint-config-tamia": "^7.2.5",
 		"eslint-plugin-prettier": "^3.1.4",
