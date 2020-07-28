@@ -124,7 +124,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [FIWARE ArcGIS](https://github.com/esri-es/Fiware-ArcGIS) - A tool which allows you to add sensor information received from a Context Broker into an ArcGIS Online or ArcGIS Server account.
 - [CEPWare](https://github.com/AnotherCodeArtist/CEPWare) - An integration of Apache Flink as a Complex Event Processing Unit into FIWARE.
 - [SmartSDK recipies](https://github.com/smartsdk/smartsdk-recipes) - A repository containing recipes to deploy different FIWARE Generic Enablers on Docker Swarm clusters.
-- [Waste4think NGSI Connector API](http://dev.waste4think.eu/waste4think/NgsiConnector) - This tool is a part of backend implementation of NGSI v2 standard, providing interface for large entities operations coming from various sources such
+- [Waste4think NGSI Connector API](https://github.com/IgorDespot/Waste4Think-NGSI-Connector-API) - This tool is a part of backend implementation of NGSI v2 standard, providing interface for large entities operations coming from various sources such
   as files, legacy systems etc.
 - [FIWARE Node-Red](https://github.com/FIWARE/node-red-contrib-FIWARE_official) - An integration of [Node-Red](https://nodered.org/) with FIWARE which supports NGSI-LD.
 - [FIWARE Meteoroid](https://github.com/OkinawaOpenLaboratory/fiware-meteoroid) - Meteoroid realizes integrating Function as a Service(FaaS) capabilities in FIWARE.
