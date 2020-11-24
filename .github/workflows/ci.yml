@@ -25,5 +25,5 @@ jobs:
           npm run lint:md
       - name: Run Textlint Markdown Linter
         run: npm run lint:text
-      - name: Run Awesomelint Markdown Linter
-        run: npm test
+      #- name: Run Awesomelint Markdown Linter
+      #  run: npm test
