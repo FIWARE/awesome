@@ -75,7 +75,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [Draco](https://github.com/ging/fiware-draco) - A data persistence component based on Apache NiFi and is a dataflow system based on the concepts of flow-based programming.
 - [STH-Comet](https://github.com/telefonicaid/fiware-sth-comet) - A means for storing a short-term history of context data using Mongo-DB.
 - [QuantumLeap](https://github.com/smartsdk/ngsi-timeseries-api) - A mechanism for supporting the storage of NGSI data into a time series database (CrateDB).
-- [Orion-LD Context Broker](https://github.com/FIWARE/context.Orion-LD)  is a NGSI-LD Broker, which supports the NGSI-LD and the NGSIv2  APIs. Currently in alpha version, plan is to merge it with the main  branch of Orion.
+- [Orion-LD Context Broker](https://github.com/FIWARE/context.Orion-LD)  is a NGSI-LD Broker, which supports the NGSI-LD and the NGSI v2  APIs. Currently in alpha version, plan is to merge it with the main  branch of Orion.
 - [Scorpio Broker](https://github.com/ScorpioBroker/ScorpioBroker)  is a NGSI-LD Broker which can also be used in federated environments.
 - [Stellio Broker](https://github.com/stellio-hub/stellio-context-broker) is a  NGSI-LD Broker which embeds a property graph database as well as a timeseries historical storage.
 
