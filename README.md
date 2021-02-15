@@ -1,4 +1,4 @@
-# Awesome <img src="https://fiware.github.io/catalogue/img/fiware.png" width="162"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome <img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="162"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of FIWARE related projects and resources.
 
