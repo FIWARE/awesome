@@ -100,6 +100,10 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [Wilma](https://github.com/ging/fiware-pep-proxy) - A PEP Proxy which can be used to secure NGSI endpoints. Integrates with Keyrock and Authzforce.
 - [Authzforce](https://github.com/authzforce/fiware) - Addon which implements PDP/PAP functions within an access control schema based on the XACML standard.
 - [APInf](https://github.com/apinf/platform) - An API Management Framework which can be placed in front of NSGI endpoints.
+- [Telefónica Steelskin PEP](https://github.com/telefonicaid/fiware-pep-steelskin) - An alternative PEP proxy to secure NGSI endpoints.
+- [Telefónica Keystone SCIM](https://github.com/telefonicaid/fiware-keystone-scim) - An OpenStack Keystone extension for Identity Management.
+- [Telefónica sPassword](https://github.com/telefonicaid/fiware-keystone-spassword) - An OpenStack Keystone extension that enables some extra security checks over user passwords.
+- [Telefónica Keypass](https://github.com/telefonicaid/fiware-keypass) - An XACML Authorization Server with PAP and PDP endpoints for securing IoT Platforms.
 
 ### Context Data Publication and Monetization
 
@@ -136,10 +140,6 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 
 ### Security
 
-- [Telefónica Steelskin](https://github.com/telefonicaid/fiware-pep-steelskin) - An alternative PEP proxy to secure NGSI endpoints.
-- [Telefónica Keystone](https://github.com/telefonicaid/fiware-keystone-scim) - An OpenStack Keystone extension for Identity Management.
-- [Telefónica sPassword](https://github.com/telefonicaid/fiware-keystone-spassword) - An OpenStack Keystone extension that enables some extra security checks over user passwords.
-- [Telefónica Keypass](https://github.com/telefonicaid/fiware-keypass) - An XACML Authorization Server with PAP and PDP endpoints for securing IoT Platforms.
 - [Secure FIWARE](https://github.com/m4n3dw0lf/SecureFiware) - Proposed security measures and security analysis for FIWARE IoT environments.
 
 ### Robotics
