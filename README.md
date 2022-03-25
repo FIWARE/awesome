@@ -139,6 +139,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [FIWARE Big Bang](https://github.com/lets-fiware/FIWARE-Big-Bang) - A turnkey solution for setting up a FIWARE instance in the cloud.
 - [NGSI v2 SDK for Java](https://github.com/thanospan/ngsiv2-sdk-java) - NGSI v2 SDK for Java
 - [Auto-generated Java Client SDKs for NGSI v2](https://github.com/thanospan/ngsiv2-sdk-java-auto) - Auto-generated Java Client SDKs for NGSI v2
+- [Python ngsildclient](https://github.com/Orange-OpenSource/python-ngsild-client) - A Python library that helps building NGSI-LD compliant entities and allows to interact with a NGSI-LD Context Broker.
 
 ### Security
 
