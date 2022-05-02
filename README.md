@@ -141,6 +141,9 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [Auto-generated Java Client SDKs for NGSI v2](https://github.com/thanospan/ngsiv2-sdk-java-auto) - Auto-generated Java Client SDKs for NGSI v2
 - [Python ngsildclient](https://github.com/Orange-OpenSource/python-ngsild-client) - A Python library that helps building NGSI-LD compliant entities and allows to interact with a NGSI-LD Context Broker.
 - [FIWARE Orion with Cygnus on AWS](https://github.com/aws-samples/fiware-orion-on-aws) - An implementation for FIWARE Orion and Cygnus on AWS.
+- [Grafana Icon Stat Panel](https://grafana.com/grafana/plugins/orchestracities-iconstat-panel/) - Plugin for QuantumLeap/Grafana which adds icons support to Grafana Stats panel.
+- [Grafana Map Panel](https://grafana.com/grafana/plugins/orchestracities-map-panel/) - Plugin for QuantumLeap/Grafana adds GeoJSON support, icons, popup support and multilayer visualizations to the Grafana Geomap panel.
+
 
 ### Security
 
