@@ -60,7 +60,7 @@ Solutions.
 
 ## NSGI DataModels
 
-- [FIWARE Data Models](https://github.com/FIWARE/dataModels) - Standard NGSI datamodels in the Smart Cities and Agrifood domains.
+- [Smart Data Models](https://github.com/smart-data-models) - Standard datamodels in 13 domains. More info at [smartdatamodels.org](https://smartdatamodels.org)
 
 ## FIWARE Catalogue
 
