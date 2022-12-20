@@ -58,7 +58,7 @@ Solutions.
   enabler.
 - [Keyrock Specification](https://swagger.lab.fiware.org/?url=https://raw.githubusercontent.com/Fiware/specifications/master/OpenAPI/security.Idm/Idm-openapi.json) - The Swagger specification for the Keyrock Identity Management enabler.
 
-## NSGI DataModels
+## Smart Data Models DataModels (compabitible with NGSI)
 
 - [Smart Data Models](https://github.com/smart-data-models) - Standard datamodels in 13 domains. More info at [smartdatamodels.org](https://smartdatamodels.org)
 
