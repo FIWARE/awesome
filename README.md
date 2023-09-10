@@ -137,7 +137,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [Custom IoT Agent for sakura.io](https://github.com/lets-fiware/custom-iotagent-sakuraio) - A bridge between the sakura.io WebSocket API and NGSI.
 - [NGSI Go](https://github.com/lets-fiware/ngsi-go) - A command-line interface supporting FIWARE Open APIs for FIWARE developers. It supports NGSI v2, NGSI-LD, STH-Comet, QuantumLeap, Cygnus, IoT Agent Provision, Perseo, Keyrock and WireCloud APIs.
 - [FIWARE Big Bang](https://github.com/lets-fiware/FIWARE-Big-Bang) - A turnkey solution for setting up a FIWARE instance in the cloud.
-- [FIWARE Small Bang](https://github.com/lets-fiware/FIWARE-Small-Bang) - A turnkey solution for setting up a FIWARE instance on Linux OS (x86\_64, aarch64) or macOS (Intel, Apple Silicon) running on your local machine.
+- [FIWARE Small Bang](https://github.com/lets-fiware/FIWARE-Small-Bang) - A turnkey solution for setting up a FIWARE instance on Linux OS (x86\_64, aarch64), macOS (Intel, Apple Silicon), or  Raspberry Pi OS (aarch64) running on your local machine.
 - [NGSI v2 SDK for Java](https://github.com/thanospan/ngsiv2-sdk-java) - NGSI v2 SDK for Java
 - [Auto-generated Java Client SDKs for NGSI v2](https://github.com/thanospan/ngsiv2-sdk-java-auto) - Auto-generated Java Client SDKs for NGSI v2
 - [Python ngsildclient](https://github.com/Orange-OpenSource/python-ngsild-client) - A Python library that helps building NGSI-LD compliant entities and allows to interact with a NGSI-LD Context Broker.
