@@ -124,6 +124,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 
 ## Open-Source FIWARE from third parties
 
+- [IoTagent UI](https://github.com/Engineering-Research-and-Development/iotagent-ui) - A graphical user interface for provisioning devices and services based on IoT Agents.
 - [Telefónica FIWARE Connectors](https://github.com/telefonicaid/fiware-connectors) - A set of Python scripts for integrating visualization tools with NSGI Context Brokers.
 - [FIWARE Device Simulator](https://github.com/telefonicaid/fiware-device-simulator) - A tool which mimics Ultralight and JSON IoT Agent interactions.
 - [FIWARE ArcGIS](https://github.com/esri-es/Fiware-ArcGIS) - A tool which allows you to add sensor information received from a Context Broker into an ArcGIS Online or ArcGIS Server account.
