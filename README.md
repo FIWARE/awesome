@@ -148,6 +148,7 @@ The FIWARE Catalogue holds the list of official curated contributions to the FIW
 - [Grafana NGSI-LD datasource](https://github.com/bfi-de/ngsild-grafana-datasource) - Datasource plugin for Grafana which allows connecting to NGSI-LD compatible context brokers. Supports temporal and geo queries.
 - [node-red-contrib-letsfiware-NGSI](https://github.com/lets-fiware/node-red-contrib-letsfiware-NGSI) - Node-RED implementation for NGSI-v2.
 - [node-red-contrib-NGSI-LD](https://github.com/lets-fiware/node-red-contrib-NGSI-LD) - Node-RED implementation for NGSI-LD.
+- [Kotlin NGSI-LD client](https://github.com/stellio-hub/kngsild) - A Kotlin, Java compatible, library that helps building NGSI-LD entities with a fluent API and allows to interact with a NGSI-LD Context Broker.
 
 ### Security
 
